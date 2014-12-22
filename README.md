@@ -35,9 +35,15 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The white deuil, or The hypocrite vncased in a sermon preached at Pauls Crosse, March 7. 1612. By Th
+
+1. TO THE VERIE WORTHY AND NOBLY-DISPOSED GENTLEMAN Sir THOMAS CHEEKE Knight.
+
+1. To the Reader.
+
 #####Body#####
-The white deuil, or The hypocrite vncased in a sermon preached at Pauls Crosse, March 7. 1612. By Th
+
+1. THE VVHITE DEVILL OR THE HYPOCRITE VNCASED: In a Sermon preached at PAVLS Crosse, March the seuenth, 1612.
+
 **Types of content**
 
   * There are 23 **verse** lines!
